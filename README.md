@@ -18,4 +18,4 @@
   :fire: My Stats :
   </h3>
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ROF13ThFloor&theme=dark)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rof13thfloor&show_icons=true&theme=radical)
