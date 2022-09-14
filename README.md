@@ -8,14 +8,3 @@
       <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/gitlab-white?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab Badge"/>
   </a>
-</div>
-</div>
-  <h1>
-  hey there ✨
-  </h1>
-  I am Mojtaba , a software lover  
-    <h3>
-  :fire: My Stats :
-  </h3>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rof13thfloor&show_icons=true&theme=radical)
