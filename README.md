@@ -40,7 +40,7 @@
     <a href="https://mojtabamoazen.com" target="_blank">
       <img
         src="https://img.shields.io/badge/CV%20%2F%20Website-000000?style=for-the-badge&logo=readthedocs&logoColor=white"
-        alt="CV or Website"
+        alt="Website"
       />
     </a>
   </div>
@@ -48,7 +48,6 @@
 
 
 
-## Stats
 <div align="center">
   <img
     src="https://streak-stats.demolab.com?user=rof13thfloor"
