@@ -6,9 +6,13 @@
   />
 
   <h2>Hi 👋, I'm Mojtaba</h2>
-  <h4>A PhD student at KTH Royal Institute of Technology passionate about software automation and software supply chains.</h4>
+  <h4>
+    A PhD student at KTH Royal Institute of Technology passionate about 
+    software automation and software supply chains.
+  </h4>
 
   <div id="badges">
+    <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/mojtaba-moazen-7614b0152/" target="_blank">
       <img 
         src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -21,19 +25,36 @@
         alt="GitLab"
       />
     </a>
-    <a href="https://github.com/rof13thfloor" target="_blank">
-      <img 
-        src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-        alt="GitHub"
+    <a href="mailto:moazen@kth.se">
+      <img
+        src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white"
+        alt="Email"
+      />
+    </a>
+    <a href="https://scholar.google.com/citations?user=X2PTrgoAAAAJ" target="_blank">
+      <img
+        src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"
+        alt="Google Scholar"
+      />
+    </a>
+    <a href="https://mojtabamoazen.com" target="_blank">
+      <img
+        src="https://img.shields.io/badge/CV%20%2F%20Website-000000?style=for-the-badge&logo=readthedocs&logoColor=white"
+        alt="CV or Website"
       />
     </a>
   </div>
 </div>
 
 
-## Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=rof13thfloor)
 
+## Stats
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=rof13thfloor"
+    alt="GitHub Streak"
+  />
+</div>
 
 
 
