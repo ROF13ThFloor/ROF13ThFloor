@@ -1,27 +1,27 @@
-name: Update README with GitHub Activity
+# name: Update README with GitHub Activity
 
-on:
-  schedule:
-    - cron: "15 0 * * *"   # daily at 00:15 UTC
-  workflow_dispatch:
+# on:
+#   schedule:
+#     - cron: "15 0 * * *"   # daily at 00:15 UTC
+#   workflow_dispatch:
 
-permissions:
-  contents: write
+# permissions:
+#   contents: write
 
-concurrency:
-  group: readme-activity
-  cancel-in-progress: true
+# concurrency:
+#   group: readme-activity
+#   cancel-in-progress: true
 
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
+# jobs:
+#   update-readme:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v4
 
-      - uses: jamesgeorge007/github-activity-readme@v0.4.6
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          GH_USERNAME: rof13thfloor
-          MAX_LINES: 10
-          COMMIT_MSG: "⚡ Update README with weekly activity"
+#       - uses: jamesgeorge007/github-activity-readme@v0.4.6
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#         with:
+#           GH_USERNAME: rof13thfloor
+#           MAX_LINES: 10
+#           COMMIT_MSG: "⚡ Update README with weekly activity"

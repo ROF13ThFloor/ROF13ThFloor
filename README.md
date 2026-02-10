@@ -29,8 +29,3 @@
     </a>
   </div>
 </div>
----
-
-### 📊 This Week on GitHub
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
