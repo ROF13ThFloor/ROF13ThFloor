@@ -48,12 +48,6 @@
 
 
 
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=rof13thfloor"
-    alt="GitHub Streak"
-  />
-</div>
 
 
 
